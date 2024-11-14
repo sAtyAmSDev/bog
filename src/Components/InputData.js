@@ -18,8 +18,6 @@ function GetData(e) {
            }
             <input type="text" onChange={GetData}/>
 
-
-            
             <button onClick={()=>setPrint(true)}>Click me</button>
         </div>
     )
