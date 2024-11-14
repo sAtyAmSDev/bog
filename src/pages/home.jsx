@@ -6,6 +6,7 @@ const home = () => {
     Home page
     make new branch 
     new change for thdfdsfdfdsfis line   sdddfffffsdf
+    new chamge 
     </div>
   )
 }
