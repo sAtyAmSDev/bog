@@ -4,6 +4,7 @@ const home = () => {
   return (
     <div>
     Home page
+    make new branch 
     </div>
   )
 }
